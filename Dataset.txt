@@ -1,0 +1,12 @@
+Apple: A fruit with a crisp skin and sweet flesh.
+Car: A vehicle with four wheels that is typically powered by an internal combustion engine.
+Book: A physical or digital publication that contains written or printed material.
+Cat: A small domesticated carnivorous mammal known for its agility and playfulness.
+Computer: An electronic device that processes and stores data, performs calculations, and executes tasks.
+Mountain: A large natural elevation of the Earth's surface rising prominently above its surroundings.
+Ocean: A vast body of saltwater that covers most of the Earth's surface.
+Guitar: A stringed musical instrument typically played by plucking or strumming its strings.
+Butterfly: An insect with colorful wings that go through metamorphosis from a larval to an adult stage.
+Moon: A celestial body that orbits a planet, often referring to Earth's natural satellite.
+
+
